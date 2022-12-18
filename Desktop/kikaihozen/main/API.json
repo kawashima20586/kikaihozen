@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kawashda-test",
+  "private_key_id": "277704575977406203e0fa9de73deb17cfb14fae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJlVGJn3pTdkj9\nks7WDQt8s4tTHL0Gr3ptgZlL8LFj/snYE5F+10hkskQqARW2cmI0D1IiZ+DMpYrD\n7ymbsFscluoekOkc60k40b+eVadXXOClizgezMKM7isUoLEyNgXFDDw+U1/KDeHm\nMJ1uSoafFZ2ZLlTRv8uvOKi4rt8KWzct4MVqBQrtJ19nNq4mBAkPDXwtZ6jzo6oX\ne7TtPW+jzIKExsVPlfEiOyBj8Uhtvdh8bxw1Mo+3iQjZyA3w9+FX6OL3Jscb6Q0V\nsmzpoJjBAz49Q3ooxfNWUWtxUs4zzIEJeVebWQTluMMFO9UYmmwzFC1orvIIYLX5\neIXNeBWXAgMBAAECggEACOaTgM3XlE6yc3/Vq0uV32cgX71giQHkPNYlPF5NdthE\nmm75naS2G05oT4TF4vGOkjS/i6nvGfWQr4ztjfbbfL6IjrWFAzQpgu+bZl3GZcdm\nWsRPep70eCkeRv0s1cYoTVjBhxFCyYABIpseWGl7I6aC+A48y/PVKod167GoZ37d\nwwItmHED/C/SeiUFBAziRkxoxB/o3tgmH2NONA9i7IZRIyVBEcqmgTaOYhW3dBKV\nnQ0F8R5N06zJ6Tzh6dsyfKIVWC3Q9xQ6NlvRObsb0QBRiLBuwDkkID0FrKh0Huf9\neuksldWaoCdkWNGjn33WSgEs5KzAnMMB4wll4SHWAQKBgQDvqyfulDAgWeAz8BCa\nDTClYHkD37LOXqcin0bZ8rzM1ZG6eKHBvxlsi8sSZI5ph7kdPjozrdSmBcrUecvD\n4wLfYYvqsvh89N0hpJCEj0d3ERBExgVFrrWhYvwXl6IDD7taXHdn2sdEEdeMF2wA\nivLntJyJmBw+gESUaifdpncIrwKBgQDXUcrIWPzdrdXY4+HOI1/5PUFxlVSqKVHT\n2G8abZJrW11dQFs8+dAbMmaWIWZF+CNrZtH22RbT4fD4mAD29LvnLy9MFcwDwROx\nE8iq/xIRpv1D5ENpMi/igs1SluyUTAtniAVRTlQJuJrZ5JZQATC2WmuA69PACTSE\nG91qjqmrmQKBgQCvs00h9VdW0CyyRsMU/Kh2BMSS13LxIajrk9LQQsiwbb1Y88i6\nDcuorM8h28Afk1VdH9pxOnWThNmObP+5ynm3o358f9n1WVmnqUodNCDTJBpGINmK\nnSsgdj2TWiF2lxjlhLYw182PlHjthdoyh6rNvLWplW7XTxd3ql8xejD3lwKBgDBY\nehqP+H7huEFRsXKyeKsiuN4C9JacXnYdg5zAe37FbeoxOAsx4CsrHuOYrjkJpRJJ\nbN1rEvgSJCP9JUJN4x7edlU0E7HIGV7KHWVfjjQOdZFX4FbvYNcQHX/syUPm6yyc\n2uzNlIr2OzavX5ypF8Hp/Xdd/BaDOpprE0UIsUoJAoGAEtgyd0/7Km0U5mC2oD52\nqLs8nXKUQS5tFVJRMZd1gBJ6jNLSDB20c925KfjYgIysqIi0ig3/r12BA7QpiZrw\npj1W/9ZsSVP9wUrmSlj26dWlMkgiAcyVgIr4+4hFzkWhLP9++hlARaNTxmvA3zud\nFcOshOxwOewkTkF+MSPBfMk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kawashima-1218@kawashda-test.iam.gserviceaccount.com",
+  "client_id": "106320768251814797656",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kawashima-1218%40kawashda-test.iam.gserviceaccount.com"
+}
