@@ -1,9 +1,7 @@
 import streamlit as st
 import gspread
 
-#from google.oauth2.service_account import Credentials
-
-st.title('機械保全学科試験過去問')
+from google.oauth2.service_account import Credentials
 
 scopes = [
     'https://www.googleapis.com/auth/spreadsheets',
